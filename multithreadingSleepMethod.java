@@ -11,7 +11,7 @@ public class multithreadingSleepMethod extends Thread{
                 e.printStackTrace();
             }
         } 
-    }
+    } 
     
     public static void main(String[] args) {
         
