@@ -5,6 +5,6 @@ public class World extends Thread{
                 System.out.println("i m loser");
             }
         }
-    }
+    } 
  
 // first code 
