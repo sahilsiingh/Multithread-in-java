@@ -5,7 +5,7 @@ class Counter {
     public synchronized void increment() {
         // if we do not use sychronized , then it will called race condition.
         count++;
-    }
+    } 
 
     public int getCount() {
         return count;
