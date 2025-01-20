@@ -9,7 +9,7 @@ class Counter {
 
     public int getCount() { 
         return count;
-    }
+    } 
 }
 
 public class Main {
